@@ -15,7 +15,4 @@
 
 ---
 
-That's pretty much it, come back later!
-# foss_flask
-# OpenSourceHub---FOSS
-# foss_flask_backend
+That's pretty much it!
