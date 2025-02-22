@@ -67,8 +67,8 @@ Best regards,
 OSHUB Team"""
 
     # Gmail SMTP credentials
-    gmail_user = "mailer.oshub@gmail.com"  # Replace with your Gmail email
-    gmail_password = "vfry lzvq okzb ainc"    # Replace with the App Password from Google
+    gmail_user = "mailer.oshub@gmail.com"  # Replace with your Gmail email, BTW just a placeholder account
+    gmail_password = "vfry lzvq okzb ainc"    # Replace with the App Password from Google, and a placeholder passphrase
 
     # Create the email message
     message = MIMEMultipart()
